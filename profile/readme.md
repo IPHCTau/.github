@@ -1,9 +1,5 @@
 # Welcome to the IPHC Tau Organization :rocket:
 
-
-
-
-
 ## About Us
 The IPHC Tau Organization represents the collaborative efforts of the *Institut Pluridisciplinaire Hubert Curien de Strasbourg* (IPHC) and the CMS working group dedicated to the study of tau leptons.
 
@@ -15,7 +11,6 @@ Our team specializes in:
 - **CP Violation in H → ττ Decays:** Investigating potential sources of CP violation in Higgs boson decays to tau pairs, contributing to our understanding of the matter-antimatter asymmetry in the universe.
 
 - **Polarization in Z → ττ Decays:** Analyzing tau polarization effects in Z boson decays to refine our knowledge of weak interaction dynamics and test Standard Model predictions.
-
 ---
 
 ## Our Projects
