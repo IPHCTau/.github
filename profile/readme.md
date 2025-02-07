@@ -1,6 +1,6 @@
 # Welcome to the IPHC Tau Organization :rocket:
 
-![IPHC Logo](logo_iphctau.jpeg "IPHC Official Logo")
+![IPHC Logo](logo_hd.png "IPHC Official Logo")
 
 ## About Us :see_no_evil:
 The IPHC Tau Organization represents the collaborative efforts of the *Institut Pluridisciplinaire Hubert Curien de Strasbourg* (IPHC) and the CMS working group dedicated to the study of tau leptons.
